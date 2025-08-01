@@ -1,0 +1,66 @@
+# 📊 Gender Parity Index & Female Enrollment Rate Analysis Dashboard
+
+## 📝 Overview
+This **Power BI dashboard** offers an interactive analysis of the **Gender Parity Index (GPI)** and **Female Enrollment Rates** across
+**Primary**, **Lower Secondary**, and **Upper Secondary** educational levels. It covers data from **2001 to 2015** for selected countries
+and aims to highlight trends in gender parity in education.
+
+---
+
+## 📂 Dashboard Components
+
+### 🎚️ 1. Year Selection Panel
+- Located at the top of the dashboard
+- Allows filtering by year (2001–2015)
+- Updates all visualizations dynamically
+
+### 📈 2. Average GPI Display
+- **Avg. Primary GPI**: Average GPI for primary education
+- **Avg. Lower Secondary GPI**: Average GPI for lower secondary
+- **Avg. Upper Secondary GPI**: Average GPI for upper secondary
+
+### 🌍 3. Female Enrollment Rate by Country
+- Bar chart ranking countries by enrollment rates across all education levels
+- **Highest**: Philippines, Malaysia  
+- **Lowest**: Niger, Djibouti
+
+### 📊 4. GPI Trend Over Time
+- Line chart tracking GPI across years (2001–2015)
+- For Primary, Lower Secondary, and Upper Secondary levels
+- Identifies patterns and major changes
+
+### 🚺 5. Average Female Enrollment Rate
+- Comparative bar chart across education levels
+- Shows overall progress in female enrollment
+
+### 🔮 6. Primary GPI Forecasting
+- Predictive line chart showing projected GPI in primary education
+- Based on historical data trends
+
+---
+
+## 🚀 How to Use the Dashboard
+
+- **🗓 Filter by Year**: Use the top panel to update visuals by year
+- **🌐 Compare Countries**: Review the bar chart to evaluate enrollment rates by country
+- **📉 Track Trends**: Use the GPI trend chart to understand gender parity evolution
+- **🔭 Forecast Insights**: See projected GPI to anticipate future progress
+
+---
+
+## 📊 Data Source
+
+- **World Bank DataBank**  
+  Provides global educational statistics, including Gender Parity Index and female enrollment rates.
+
+---
+
+## 📸 Screenshots (Optional)
+
+> ✨ ![Image Alt](image_url)
+
+---
+
+## 📌 Tags
+
+`Power BI` `Gender Parity Index` `Education Analytics` `World Bank` `Data Visualization`
