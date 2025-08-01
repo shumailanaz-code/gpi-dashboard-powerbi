@@ -57,7 +57,7 @@ It covers data from **2001 to 2015** for selected countries and aims to highligh
 
 ## 📸 Screenshots
 
-> ✨ ![image alt](https://github.com/shumailanaz-code/gpi-dashboard-powerbi/blob/main/GPI%20Dashboard/7.png?raw=true)
+> ✨ ![image_alt](https://github.com/shumailanaz-code/gpi-dashboard-powerbi/blob/49bdc9e17979a8e38b47f32782b5501f010157df/GPI%20Dashboard/7.png)
 ---
 
 ## 📌 Tags
