@@ -1,49 +1,64 @@
-Gender Parity Index and Enrollment Rate Analysis Dashboard
+# 📊 Gender Parity Index & Female Enrollment Rate Analysis Dashboard
 
-Overview
+## 📝 Overview
+This **Power BI dashboard** offers an interactive analysis of the **Gender Parity Index (GPI)** and **Female Enrollment Rates** across **Primary**, **Lower Secondary**, and **Upper Secondary** educational levels. It covers data from **2001 to 2015** for selected countries and aims to highlight trends in gender parity in education.
 
-This Power BI dashboard provides a detailed analysis of the Gender Parity Index (GPI) and Female Enrollment Rates across various educational levels (Primary, Lower Secondary, Upper Secondary) for selected countries over the years 2001 to 2015. The purpose of this dashboard is to visualize the trends in gender parity in education and analyze the female enrollment rates across different countries.
+---
 
-Dashboard Components
+## 📂 Dashboard Components
 
-1. Years Selection Panel
+### 🎚️ 1. Year Selection Panel
+- Located at the top of the dashboard
+- Allows filtering by year (2001–2015)
+- Updates all visualizations dynamically
 
-Located at the top of the dashboard, this panel allows users to filter the data by selecting specific years from 2001 to 2015. The analysis in the dashboard will update based on the selected years.
+### 📈 2. Average GPI Display
+- **Avg. Primary GPI**: Average GPI for primary education
+- **Avg. Lower Secondary GPI**: Average GPI for lower secondary
+- **Avg. Upper Secondary GPI**: Average GPI for upper secondary
 
-2. Average GPI Display
+### 🌍 3. Female Enrollment Rate by Country
+- Bar chart ranking countries by enrollment rates across all education levels
+- **Highest**: Philippines, Malaysia  
+- **Lowest**: Niger, Djibouti
 
-Avg. Primary GPI: Shows the average Gender Parity Index for primary education.
-Avg. Lower Secondary GPI: Displays the average GPI for lower secondary education.
-Avg. Upper Secondary GPI: Represents the average GPI for upper secondary education.
+### 📊 4. GPI Trend Over Time
+- Line chart tracking GPI across years (2001–2015)
+- For Primary, Lower Secondary, and Upper Secondary levels
+- Identifies patterns and major changes
 
-3. All Education Levels Enrollment Rate - Female
+### 🚺 5. Average Female Enrollment Rate
+- Comparative bar chart across education levels
+- Shows overall progress in female enrollment
 
-A bar chart displaying the female enrollment rates across various countries. This chart ranks countries based on their female enrollment rates across all education levels.
-Highest Enrollment Rates: The Philippines and Malaysia have the highest enrollment rates.
-Lowest Enrollment Rates: Niger and Djibouti show the lowest female enrollment rates.
+### 🔮 6. Primary GPI Forecasting
+- Predictive line chart showing projected GPI in primary education
+- Based on historical data trends
 
-4. Gender Parity Index Trend Over the Years
+---
 
-A line chart tracking the trend of the Gender Parity Index over the years for Primary, Lower Secondary, and Upper Secondary education levels. This visual allows users to observe how GPI has evolved over time and identify any significant trends or shifts.
+## 🚀 How to Use the Dashboard
 
-5. Average Enrollment Rate - Female
+- **🗓 Filter by Year**: Use the top panel to update visuals by year
+- **🌐 Compare Countries**: Review the bar chart to evaluate enrollment rates by country
+- **📉 Track Trends**: Use the GPI trend chart to understand gender parity evolution
+- **🔭 Forecast Insights**: See projected GPI to anticipate future progress
 
-A bar chart that summarizes the average female enrollment rate across primary, lower secondary, and upper secondary levels. This helps in comparing the overall female enrollment across different educational stages.
+---
 
-6. Primary GPI Forecasting
+## 📊 Data Source
 
-A line chart forecasting the Primary Gender Parity Index into the near future, based on past trends. This projection helps in understanding the potential future state of gender parity in primary education.
+- **World Bank DataBank**  
+  Provides global educational statistics, including Gender Parity Index and female enrollment rates.
 
-How to Use the Dashboard
+---
 
-Filtering by Year: Use the year selection panel at the top to filter the data according to specific years. This will automatically update the visuals to reflect the data for the chosen period.
+## 📸 Screenshots (Optional)
 
-Comparing Countries: Examine the bar chart on the left to compare female enrollment rates across different countries. Countries are sorted from the highest to the lowest enrollment rates.
+> ✨ *Add screenshots of the dashboard for visual reference.*
 
-Analyzing Trends: Use the line chart in the middle to track how GPI has changed over the years. This can help in identifying trends and understanding the progress (or lack thereof) in gender parity in education.
+---
 
-Forecasting: Refer to the GPI forecasting section to get insights into the expected future trends in primary education gender parity.
+## 📌 Tags
 
-Data Source
-
-The data for this dashboard is sourced from the World Bank DataBank, which provides comprehensive datasets on global educational statistics, including Gender Parity Index and female enrollment rates across different countries and education levels.
+`Power BI` `Gender Parity Index` `Education Analytics` `World Bank` `Data Visualization`
