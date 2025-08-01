@@ -1,7 +1,9 @@
 # 📊 Gender Parity Index & Female Enrollment Rate Analysis Dashboard
 
 ## 📝 Overview
-This **Power BI dashboard** offers an interactive analysis of the **Gender Parity Index (GPI)** and **Female Enrollment Rates** across **Primary**, **Lower Secondary**, and **Upper Secondary** educational levels. It covers data from **2001 to 2015** for selected countries and aims to highlight trends in gender parity in education.
+This **Power BI dashboard** offers an interactive analysis of the **Gender Parity Index (GPI)** 
+and **Female Enrollment Rates** across Primary, Lower Secondary, and Upper Secondary educational levels. 
+It covers data from **2001 to 2015** for selected countries and aims to highlight trends in gender parity in education.
 
 ---
 
@@ -53,7 +55,7 @@ This **Power BI dashboard** offers an interactive analysis of the **Gender Parit
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 > ✨ *Add screenshots of the dashboard for visual reference.*
 
