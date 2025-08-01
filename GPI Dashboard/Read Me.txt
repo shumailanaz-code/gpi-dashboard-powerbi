@@ -57,8 +57,7 @@ It covers data from **2001 to 2015** for selected countries and aims to highligh
 
 ## 📸 Screenshots
 
-> ✨ *Add screenshots of the dashboard for visual reference.*
-
+> ✨ ![image alt](image_url)
 ---
 
 ## 📌 Tags
