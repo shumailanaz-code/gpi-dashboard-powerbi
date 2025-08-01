@@ -57,7 +57,7 @@ and aims to highlight trends in gender parity in education.
 
 ## 📸 Screenshots (Optional)
 
-> ✨ ![Image Alt](image_url)
+> ✨ ![Image Alt](https://github.com/shumailanaz-code/gpi-dashboard-powerbi/blob/513d23ac5d4ee6b5fd2e48ea088a2d70cc4c2a97/Dashboard.png)
 
 ---
 
